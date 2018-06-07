@@ -1,0 +1,20 @@
+---
+output: github_document
+bibliography: rtweet_citations.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa-single-spaced.csl
+---
+
+# rtweet_citations
+
+A repository for tracking citations/references/uses of [rtweet](http://rtweet.info) in published articles because (a) people aren't always great about using appropriate citations for R packages, (b) Google scholar hasn't been great at locating/tracking rtweet citations, and (c) I'd like to one day get tenure :).
+
+## Bibliography list
+
+```{r, results='asis'}
+biblio <- bibtex::read.bib("rtweet_citations.bib")
+bibs <- lapply(biblio, function(x) capture.output(print(x)))
+bibs <- lapply(bibs, paste, collapse = " ")
+cat(paste0("(", seq_along(bibs), ") ", bibs, collapse = "\n\n"))
+```
+
+
