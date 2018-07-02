@@ -11,6 +11,12 @@ A repository for tracking citations/references/uses of [rtweet](http://rtweet.in
 ## Bibliography list
 
 ```{r, results='asis'}
+## update pdf version
+sh <- system("xelatex bib.tex", intern = TRUE)
+sh <- system("biber bib", intern = TRUE)
+sh <- system("xelatex bib.tex", intern = TRUE)
+
+## print to README
 biblio <- bibtex::read.bib("rtweet_citations.bib")
 bibs <- lapply(biblio, function(x) capture.output(print(x)))
 bibs <- lapply(bibs, paste, collapse = " ")
