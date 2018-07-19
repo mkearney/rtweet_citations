@@ -9,24 +9,6 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-``` r
-## update pdf version
-sh <- system("xelatex bib.tex", intern = TRUE)
-sh <- system("biber bib", intern = TRUE)
-sh <- system("xelatex bib.tex", intern = TRUE)
-sh <- system("rm bib.bbl bib.bcf bib.blg bib.fdb_latexmk bib.fls bib.log bib.aux* bib.xdv bib.run*")
-
-## print to README
-biblio <- bibtex::read.bib("rtweet_citations.bib")
-biblio <- biblio[order(purrr::map_int(biblio, ~ as.integer(.x$year)), decreasing = TRUE)]
-bibs <- lapply(biblio, function(x) capture.output(print(x)))
-bibs <- lapply(bibs, paste, collapse = " ")
-bibs <- stringr::str_wrap(bibs, 100)
-bibs <- gsub("\n", "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", bibs)
-padding <- c(rep(".</span>&nbsp;&nbsp;&nbsp;", length(bibs) - 9), rep(".</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", 9))
-cat(paste0("<span>", rev(seq_along(bibs)), padding, bibs, collapse = "\n\n"))
-```
-
 <span>20.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
 (2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
 *Acta de las Jornadas Científicas de la Asociación Meteorológica
