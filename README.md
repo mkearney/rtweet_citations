@@ -9,16 +9,20 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-<span>20.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
+<span>21.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
 (2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
 *Acta de las Jornadas Científicas de la Asociación Meteorológica
 Española*,<br>        *1*(35).
 
-<span>19.</span>   Erlandsen M (2018). “Twitter as a tool of
+<span>20.</span>   Erlandsen M (2018). “Twitter as a tool of
 para-disploomacy: An exploratory cohort study based<br>        on
 Catalonia (2013-2017).” *Revista Chilena de Relaciones Internacionales*,
 *2*, 211-231.
 \<URL:<br>        <https://rchri.cl/wp-content/uploads/2018/04/211-231.pdf>\>.
+
+<span>19.</span>   González F, Medina V (2018). “Shaping the public
+sphere: The politics of fictional expectations in<br>        social
+media.” working paper.
 
 <span>18.</span>   Jann O, Schottmuller C (2018). “Breakdown of debate
 and the usefulness of echo chambers: Theory<br>        and evidence.”
