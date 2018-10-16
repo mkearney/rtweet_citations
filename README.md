@@ -9,46 +9,70 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-<span>21.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
+<span>26.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
 (2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
 *Acta de las Jornadas Científicas de la Asociación Meteorológica
 Española*,<br>        *1*(35).
 
-<span>20.</span>   Erlandsen M (2018). “Twitter as a tool of
+<span>25.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
+“Media content analysis on online hate<br>        speech.” *Positive
+Messengers*. \<URL:
+<https://positivemessengers.net/images/library/pdfs/><br>        Media\_content\_analysis\_form\_eng.pdf\>.
+
+<span>24.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
+Herramientas en la Respuesta del Consumidor*. PhD
+thesis,<br>        Universitat Politécnica De Valéncia.
+
+<span>23.</span>   Doceka D (2018). “Selfies as a mental disorder,
+escaped biometric database and tax optimization of<br>        Google.”
+*Lupa*. \<URL:
+<https://www.lupa.cz/clanky/selfies-jako-dusevni-porucha-unikla-biometricka-><br>        databaze-a-danove-optimalizace-googlu/\>.
+
+<span>22.</span>   Erlandsen M (2018). “Twitter as a tool of
 para-disploomacy: An exploratory cohort study based<br>        on
 Catalonia (2013-2017).” *Revista Chilena de Relaciones Internacionales*,
 *2*, 211-231.
 \<URL:<br>        <https://rchri.cl/wp-content/uploads/2018/04/211-231.pdf>\>.
 
-<span>19.</span>   González F, Medina V (2018). “Shaping the public
+<span>21.</span>   González F, Medina V (2018). “Shaping the public
 sphere: The politics of fictional expectations in<br>        social
 media.” working paper.
 
-<span>18.</span>   Jann O, Schottmuller C (2018). “Breakdown of debate
+<span>20.</span>   Jann O, Schottmuller C (2018). “Breakdown of debate
 and the usefulness of echo chambers: Theory<br>        and evidence.”
 working paper, \<URL:
 <https://editorialexpress.com/cgi-bin/conference/download.cgi>?<br>        db\_name=EEAESEM2018\&paper\_id=2395\>.
 
-<span>17.</span>   Kearney MW (2018). *Analyzing tweets about the 2016
+<span>19.</span>   Kearney MW (2018). *Analyzing tweets about the 2016
 US presidential “blunder” election*. ABC-CLIO.
 
-<span>16.</span>   Krsová L (2018). *Czech journalists on Twitter:
+<span>18.</span>   Krsová L (2018). *Czech journalists on Twitter:
 Analysis of social interactions of the Czech media<br>        space*.
 Master’s thesis, Univerzita Karlova.
 
-<span>15.</span>   Li TR, Chamrajnagar AS, Fong XR, Rizik NR, Fu F
+<span>17.</span>   Lacroix D (2018). *Tweeting populist sentiment: A
+study of Forum voor Democratie’s use<br>        of emotional language on
+Twitter*. PhD thesis, University of Amsterdam. \<URL:
+<http://><br>        www.scriptiesonline.uba.uva.nl/document/666363\>.
+
+<span>16.</span>   Li TR, Chamrajnagar AS, Fong XR, Rizik NR, Fu F
 (2018). “Sentiment-based prediction of
 alternative<br>        cryptocurrency price fluctuations using
 gradient boosting tree model.” *arXiv preprint
 arXiv:<br>        1805.00558*.
 
-<span>14.</span>   Rudis B (2018). *21 recipes for mining Twitter with
+<span>15.</span>   Rudis B (2018). *21 recipes for mining Twitter with
 rtweet*. rud.is. \<URL:
 <https://rud.is/books/21-><br>        recipes/\>.
 
-<span>13.</span>   Tasoulis SK, Vrahatis AG, Georgakopoulos SV,
+<span>14.</span>   Tasoulis SK, Vrahatis AG, Georgakopoulos SV,
 Plagianakos VP (2018). “Real time sentiment change<br>        detection
 of Twitter data streams.” *arXiv preprint arXiv:1804.00482*.
+
+<span>13.</span>   Tomohira N, Wakamatsu H (2018). “On the use of
+adjectives of”different" and its distribution."
+In<br>        *Proceedings of the 24th Annual Conference of the
+Society of Language Processing*.
 
 <span>12.</span>   Tsoi KK, Zhang L, Chan NB, Chan FC, Hirai HW, Meng HM
 (2018). “Social media as a tool to look for<br>        people with
@@ -99,7 +123,7 @@ about”Citizen Science" (and 1,000 things<br>        it doesn’t)."
 <span>2.</span>     Valls F, Redondo E, Fonseca D, Torres-Kompen R,
 Villagrasa S, Martí N (2017). “Urban data and urban<br>        design: A
 data mining approach to architecture education.” *Telematics and
-Informatics*.
+Informatics*. .
 
 <span>1.</span>     Porcu V (2016). *Text mining e sentiment analysis
 con R*. Valentina Porcu.
