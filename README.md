@@ -9,19 +9,23 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-<span>26.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
-(2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
-*Acta de las Jornadas Científicas de la Asociación Meteorológica
-Española*,<br>        *1*(35).
+<span>27.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
+analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Conference
+Proceedings*, volume 2013 number 1, 020056. AIP Publishing.
 
-<span>25.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
+<span>26.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
 “Media content analysis on online hate<br>        speech.” *Positive
 Messengers*. \<URL:
 <https://positivemessengers.net/images/library/pdfs/><br>        Media\_content\_analysis\_form\_eng.pdf\>.
 
-<span>24.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
+<span>25.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
 Herramientas en la Respuesta del Consumidor*. PhD
 thesis,<br>        Universitat Politécnica De Valéncia.
+
+<span>24.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
+(2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
+*Acta de las Jornadas Científicas de la Asociación Meteorológica
+Española*,<br>        *1*(35).
 
 <span>23.</span>   Doceka D (2018). “Selfies as a mental disorder,
 escaped biometric database and tax optimization of<br>        Google.”
