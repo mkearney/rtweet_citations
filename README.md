@@ -14,9 +14,9 @@ analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Confer
 Proceedings*, volume 2013 number 1, 020056. AIP Publishing.
 
 <span>32.</span>   Bossetta M (2018). “A Simulated Cyberattack on
-Twitter: Assessing Partisan Vulnerability to<br>        Spear Phishing
-and Disinformation ahead of the 2018 US Midterm Elections.” *arXiv
-preprint arXiv:<br>        1811.05900*.
+Twitter: Assessing Partisan Vulnerability to Spear<br>        Phishing
+and Disinformation ahead of the 2018 US Midterm Elections.” *First
+Monday*.
 
 <span>31.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
 “Media content analysis on online hate<br>        speech.” *Positive
