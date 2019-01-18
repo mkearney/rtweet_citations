@@ -9,6 +9,20 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
+<span>35.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
+airports using social networks.” *Journal of Air<br>        Transport
+Management*, *75*, 153 - 163. ISSN 0969-6997, doi:
+<https://doi.org/10.1016/j.jairtraman>.<br>        2019.01.010 (URL:
+<http://doi.org/https://doi.org/10.1016/j.jairtraman.2019.01.010>),
+\<URL:
+<http://><br>        www.sciencedirect.com/science/article/pii/S0969699718303144\>.
+
+<span>34.</span>   Kearney MW (2019). “Analyzing change in network
+polarization.” *New Media & Society*.
+doi:<br>        10.1177/1461444818822813 (URL:
+<http://doi.org/10.1177/1461444818822813>), \[Online First\],
+\<URL:<br>        <https://doi.org/10.1177/1461444818822813>\>.
+
 <span>33.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
 analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Conference
 Proceedings*, volume 2013 number 1, 020056. AIP Publishing.
@@ -60,8 +74,10 @@ Analysis of social interactions of the Czech media<br>        space*.
 Master’s thesis, Univerzita Karlova.
 
 <span>22.</span>   Ku T, Xu S, Li W, Yuan B, others (2018). “Affective
-Emotional Component Analysis: Text Mining Based<br>        on Social
-Network.” *OSF Preprints*. .
+Emotional Component Analysis: Text Mining<br>        Based on Social
+Network.” *OSF Preprints*. doi: <https://doi.org/10.31219/osf.io/tpuw3>
+(URL:
+<http://><br>        doi.org/<https://doi.org/10.31219/osf.io/tpuw3>).
 
 <span>21.</span>   Lacroix D (2018). *Tweeting populist sentiment: A
 study of Forum voor Democratie’s use<br>        of emotional language on
@@ -77,7 +93,8 @@ arXiv:<br>        1805.00558*.
 <span>19.</span>   Molyneux L, Lewis SC, Holton AE (2018). “Media work,
 identity, and the motivations that shape<br>        branding practices
 among journalists: An explanatory framework.” *New Media & Society*,
-1-20. .
+1-20.<br>        doi: <https://doi.org/10.1177/F1461444818809392> (URL:
+<http://doi.org/https://doi.org/10.1177/><br>        F1461444818809392).
 
 <span>18.</span>   Rudis B (2018). *21 recipes for mining Twitter with
 rtweet*. rud.is. \<URL:
@@ -151,9 +168,12 @@ about”Citizen Science" (and 1,000 things<br>        it doesn’t)."
 <http://><br>        citizensciences.net/2017/01/26/4-things-twitter-tells-us-about-citizen-science/\>.
 
 <span>2.</span>     Valls F, Redondo E, Fonseca D, Torres-Kompen R,
-Villagrasa S, Martí N (2017). “Urban data and urban<br>        design: A
+Villagrasa S, Martí N (2017). “Urban data and<br>        urban design: A
 data mining approach to architecture education.” *Telematics and
-Informatics*. .
+Informatics*.
+doi:<br>        <https://doi.org/10.1016/j.tele.2017.09.015>
+(URL:
+<http://doi.org/https://doi.org/10.1016/j.tele>.<br>        2017.09.015).
 
 <span>1.</span>     Porcu V (2016). *Text mining e sentiment analysis
 con R*. Valentina Porcu.

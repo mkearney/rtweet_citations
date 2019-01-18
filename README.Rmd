@@ -14,8 +14,13 @@ A repository for tracking citations/references/uses of [rtweet](http://rtweet.in
 ## update pdf version
 sh <- system("xelatex bib.tex", intern = TRUE)
 sh <- system("biber bib", intern = TRUE)
-sh <- system("xelatex bib.tex", intern = TRUE)
-sh <- system("rm bib.bbl bib.bcf bib.blg bib.fdb_latexmk bib.fls bib.log bib.aux* bib.xdv bib.run*")
+sh <- system("xelatex bib", intern = TRUE)
+sh <- system("xelatex bib", intern = TRUE)
+unlink(
+  grep("\\.tex$|\\.pdf$", 
+    list.files(pattern = "bib\\."),
+    value = TRUE, invert = TRUE)
+)
 
 ## print to README
 biblio <- bibtex::read.bib("rtweet_citations.bib")
