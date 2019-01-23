@@ -9,7 +9,7 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-<span>35.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
+<span>37.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
 airports using social networks.” *Journal of Air<br>        Transport
 Management*, *75*, 153 - 163. ISSN 0969-6997, doi:
 <https://doi.org/10.1016/j.jairtraman>.<br>        2019.01.010 (URL:
@@ -17,123 +17,132 @@ Management*, *75*, 153 - 163. ISSN 0969-6997, doi:
 \<URL:
 <http://><br>        www.sciencedirect.com/science/article/pii/S0969699718303144\>.
 
-<span>34.</span>   Kearney MW (2019). “Analyzing change in network
+<span>36.</span>   Greco F, Polli A, others (2019). “Vaccines in Italy:
+the emotional text mining of social media.”<br>        *RIEDS-Rivista
+Italiana di Economia, Demografia e Statistica-Italian Review of
+Economics, Demography<br>        and Statistics*, *73*(1), 89-99.
+
+<span>35.</span>   Kearney MW (2019). “Analyzing change in network
 polarization.” *New Media & Society*.
 doi:<br>        10.1177/1461444818822813 (URL:
 <http://doi.org/10.1177/1461444818822813>), \[Online First\],
 \<URL:<br>        <https://doi.org/10.1177/1461444818822813>\>.
 
-<span>33.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
+<span>34.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
 analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Conference
 Proceedings*, volume 2013 number 1, 020056. AIP Publishing.
 
-<span>32.</span>   Bossetta M (2018). “A Simulated Cyberattack on
+<span>33.</span>   Bossetta M (2018). “A Simulated Cyberattack on
 Twitter: Assessing Partisan Vulnerability to Spear<br>        Phishing
 and Disinformation ahead of the 2018 US Midterm Elections.” *First
 Monday*.
 
-<span>31.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
+<span>32.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
 “Media content analysis on online hate<br>        speech.” *Positive
 Messengers*. \<URL:
 <https://positivemessengers.net/images/library/pdfs/><br>        Media\_content\_analysis\_form\_eng.pdf\>.
 
-<span>30.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
+<span>31.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
 Herramientas en la Respuesta del Consumidor*. PhD
 thesis,<br>        Universitat Politécnica De Valéncia.
 
-<span>29.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
+<span>30.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
 (2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
 *Acta de las Jornadas Científicas de la Asociación Meteorológica
 Española*,<br>        *1*(35).
 
-<span>28.</span>   Doceka D (2018). “Selfies as a mental disorder,
+<span>29.</span>   Doceka D (2018). “Selfies as a mental disorder,
 escaped biometric database and tax optimization of<br>        Google.”
 *Lupa*. \<URL:
 <https://www.lupa.cz/clanky/selfies-jako-dusevni-porucha-unikla-biometricka-><br>        databaze-a-danove-optimalizace-googlu/\>.
 
-<span>27.</span>   Erlandsen M (2018). “Twitter as a tool of
+<span>28.</span>   Erlandsen M (2018). “Twitter as a tool of
 para-disploomacy: An exploratory cohort study based<br>        on
 Catalonia (2013-2017).” *Revista Chilena de Relaciones Internacionales*,
 *2*, 211-231.
 \<URL:<br>        <https://rchri.cl/wp-content/uploads/2018/04/211-231.pdf>\>.
 
-<span>26.</span>   González F, Medina V (2018). “Shaping the public
+<span>27.</span>   González F, Medina V (2018). “Shaping the public
 sphere: The politics of fictional expectations in<br>        social
 media.” working paper.
 
-<span>25.</span>   Jann O, Schottmuller C (2018). “Breakdown of debate
+<span>26.</span>   Jann O, Schottmuller C (2018). “Breakdown of debate
 and the usefulness of echo chambers: Theory<br>        and evidence.”
 working paper, \<URL:
 <https://editorialexpress.com/cgi-bin/conference/download.cgi>?<br>        db\_name=EEAESEM2018\&paper\_id=2395\>.
 
-<span>24.</span>   Kearney MW (2018). *Analyzing tweets about the 2016
+<span>25.</span>   Kearney MW (2018). *Analyzing tweets about the 2016
 US presidential “blunder” election*. ABC-CLIO.
 
-<span>23.</span>   Krsová L (2018). *Czech journalists on Twitter:
+<span>24.</span>   Krsová L (2018). *Czech journalists on Twitter:
 Analysis of social interactions of the Czech media<br>        space*.
 Master’s thesis, Univerzita Karlova.
 
-<span>22.</span>   Ku T, Xu S, Li W, Yuan B, others (2018). “Affective
+<span>23.</span>   Ku T, Xu S, Li W, Yuan B, others (2018). “Affective
 Emotional Component Analysis: Text Mining<br>        Based on Social
 Network.” *OSF Preprints*. doi: <https://doi.org/10.31219/osf.io/tpuw3>
 (URL:
 <http://><br>        doi.org/<https://doi.org/10.31219/osf.io/tpuw3>).
 
-<span>21.</span>   Lacroix D (2018). *Tweeting populist sentiment: A
+<span>22.</span>   Lacroix D (2018). *Tweeting populist sentiment: A
 study of Forum voor Democratie’s use<br>        of emotional language on
 Twitter*. PhD thesis, University of Amsterdam. \<URL:
 <http://><br>        www.scriptiesonline.uba.uva.nl/document/666363\>.
 
-<span>20.</span>   Li TR, Chamrajnagar AS, Fong XR, Rizik NR, Fu F
+<span>21.</span>   Li TR, Chamrajnagar AS, Fong XR, Rizik NR, Fu F
 (2018). “Sentiment-based prediction of
 alternative<br>        cryptocurrency price fluctuations using
 gradient boosting tree model.” *arXiv preprint
 arXiv:<br>        1805.00558*.
 
-<span>19.</span>   Molyneux L, Lewis SC, Holton AE (2018). “Media work,
+<span>20.</span>   Molyneux L, Lewis SC, Holton AE (2018). “Media work,
 identity, and the motivations that shape<br>        branding practices
 among journalists: An explanatory framework.” *New Media & Society*,
 1-20.<br>        doi: <https://doi.org/10.1177/F1461444818809392> (URL:
 <http://doi.org/https://doi.org/10.1177/><br>        F1461444818809392).
 
-<span>18.</span>   Rudis B (2018). *21 recipes for mining Twitter with
+<span>19.</span>   Rudis B (2018). *21 recipes for mining Twitter with
 rtweet*. rud.is. \<URL:
 <https://rud.is/books/21-><br>        recipes/\>.
 
-<span>17.</span>   Štědroňová J (2018). “Inkluzivní povaha Twitterové
+<span>18.</span>   Štědroňová J (2018). “Inkluzivní povaha Twitterové
 komunikace politik: je Twitter skutečně<br>        demokratizující
 systém?” *Univerzita Karlova, Filozofická fakulta*.
 
-<span>16.</span>   Tasoulis SK, Vrahatis AG, Georgakopoulos SV,
+<span>17.</span>   Tasoulis SK, Vrahatis AG, Georgakopoulos SV,
 Plagianakos VP (2018). “Real time sentiment change<br>        detection
 of Twitter data streams.” *arXiv:1804.00482*.
 
-<span>15.</span>   Thorson AA (2018). *Social networks & price
+<span>16.</span>   Thorson AA (2018). *Social networks & price
 forecasting: The case of Bitcoins*. Master’s
 thesis,<br>        University of Barcelona.
 
-<span>14.</span>   Tomohira N, Wakamatsu H (2018). “On the use of
+<span>15.</span>   Tomohira N, Wakamatsu H (2018). “On the use of
 adjectives of”different" and its distribution."
 In<br>        *Proceedings of the 24th Annual Conference of the
 Society of Language Processing*.
 
-<span>13.</span>   Tsoi KK, Zhang L, Chan NB, Chan FC, Hirai HW, Meng HM
+<span>14.</span>   Tsoi KK, Zhang L, Chan NB, Chan FC, Hirai HW, Meng HM
 (2018). “Social media as a tool to look for<br>        people with
 dementia who become lost: Factors that matter.” In *Proceedings of the
 51st Hawaii<br>        International Conference on System Sciences*.
 
-<span>12.</span>   Tsoi KK, Chan NB, Chan FC, Zhang L, Lee AC, Meng HM
+<span>13.</span>   Tsoi KK, Chan NB, Chan FC, Zhang L, Lee AC, Meng HM
 (2018). “How can we better use Twitter to find a<br>        person who
 got lost due to dementia?” *npj Digital Medicine*, *1*(1), 14.
 
-<span>11.</span>   Ueda A (2018). *SNS political advertisement
+<span>12.</span>   Ueda A (2018). *SNS political advertisement
 communication: Building relationship between voters<br>        and
 politicians in election environment in Japan*. Master’s thesis, Kyoto
 University. \<URL: <http://><br>        hdl.handle.net/2433/229491\>.
 
-<span>10.</span>   Unsihuay JEG (2018). “Topic modeling en datos de
+<span>11.</span>   Unsihuay JEG (2018). “Topic modeling en datos de
 Twitter: Una aplicación en el contexto político<br>        peruano.”
 *XXVIII Simposio Internacional de Estadístic*.
+
+<span>10.</span>   Wu H, Ying S (2018). “Finding Similar Users over
+Multiple Attributes on the Basis of Intuitionistic<br>        Fuzzy
+Set.” *Mobile Networks and Applications*, 1-9.
 
 <span>9.</span>     Akitsune K, Suzuki T (2017). *Network Analysis*,
 series Learning with R Data Science, 2 edition.<br>        Kyoritsu
