@@ -9,7 +9,7 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-<span>37.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
+<span>39.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
 airports using social networks.” *Journal of Air<br>        Transport
 Management*, *75*, 153 - 163. ISSN 0969-6997, doi:
 <https://doi.org/10.1016/j.jairtraman>.<br>        2019.01.010 (URL:
@@ -17,50 +17,60 @@ Management*, *75*, 153 - 163. ISSN 0969-6997, doi:
 \<URL:
 <http://><br>        www.sciencedirect.com/science/article/pii/S0969699718303144\>.
 
-<span>36.</span>   Greco F, Polli A, others (2019). “Vaccines in Italy:
+<span>38.</span>   Greco F, Polli A, others (2019). “Vaccines in Italy:
 the emotional text mining of social media.”<br>        *RIEDS-Rivista
 Italiana di Economia, Demografia e Statistica-Italian Review of
 Economics, Demography<br>        and Statistics*, *73*(1), 89-99.
 
-<span>35.</span>   Kearney MW (2019). “Analyzing change in network
+<span>37.</span>   Kearney MW (2019). “Analyzing change in network
 polarization.” *New Media & Society*.
 doi:<br>        10.1177/1461444818822813 (URL:
 <http://doi.org/10.1177/1461444818822813>), \[Online First\],
 \<URL:<br>        <https://doi.org/10.1177/1461444818822813>\>.
 
-<span>34.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
+<span>36.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Tailoring
+in the digital era: Stimulating dialogues<br>        on health topics in
+collaboration with social media influencers.” *DIGITAL HEALTH*,
+*5*,<br>        2055207618821521.
+
+<span>35.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
 analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Conference
 Proceedings*, volume 2013 number 1, 020056. AIP Publishing.
 
-<span>33.</span>   Bossetta M (2018). “A Simulated Cyberattack on
+<span>34.</span>   Bossetta M (2018). “A Simulated Cyberattack on
 Twitter: Assessing Partisan Vulnerability to Spear<br>        Phishing
 and Disinformation ahead of the 2018 US Midterm Elections.” *First
 Monday*.
 
-<span>32.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
+<span>33.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
 “Media content analysis on online hate<br>        speech.” *Positive
 Messengers*. \<URL:
 <https://positivemessengers.net/images/library/pdfs/><br>        Media\_content\_analysis\_form\_eng.pdf\>.
 
-<span>31.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
+<span>32.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
 Herramientas en la Respuesta del Consumidor*. PhD
 thesis,<br>        Universitat Politécnica De Valéncia.
 
-<span>30.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
+<span>31.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
 (2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
 *Acta de las Jornadas Científicas de la Asociación Meteorológica
 Española*,<br>        *1*(35).
 
-<span>29.</span>   Doceka D (2018). “Selfies as a mental disorder,
+<span>30.</span>   Doceka D (2018). “Selfies as a mental disorder,
 escaped biometric database and tax optimization of<br>        Google.”
 *Lupa*. \<URL:
 <https://www.lupa.cz/clanky/selfies-jako-dusevni-porucha-unikla-biometricka-><br>        databaze-a-danove-optimalizace-googlu/\>.
 
-<span>28.</span>   Erlandsen M (2018). “Twitter as a tool of
+<span>29.</span>   Erlandsen M (2018). “Twitter as a tool of
 para-disploomacy: An exploratory cohort study based<br>        on
 Catalonia (2013-2017).” *Revista Chilena de Relaciones Internacionales*,
 *2*, 211-231.
 \<URL:<br>        <https://rchri.cl/wp-content/uploads/2018/04/211-231.pdf>\>.
+
+<span>28.</span>   Greenhalgh SP (2018). *Spaces and their social
+frontiers: Using community dimensions to distinguish<br>        between
+teacher-focused hashtags on Twitter*. PhD thesis, Michigan State
+University.
 
 <span>27.</span>   González F, Medina V (2018). “Shaping the public
 sphere: The politics of fictional expectations in<br>        social
