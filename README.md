@@ -31,7 +31,8 @@ doi:<br>        10.1177/1461444818822813 (URL:
 <span>36.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Tailoring
 in the digital era: Stimulating dialogues<br>        on health topics in
 collaboration with social media influencers.” *DIGITAL HEALTH*,
-*5*,<br>        2055207618821521.
+*5*,<br>        2055207618821521. doi: 10.1177/2055207618821521 (URL:
+<http://doi.org/10.1177/2055207618821521>).
 
 <span>35.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
 analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Conference
