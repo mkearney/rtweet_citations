@@ -31,6 +31,16 @@ bibs <- stringr::str_wrap(bibs, 100)
 bibs <- gsub("\n", "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", bibs)
 padding <- c(rep(".</span>&nbsp;&nbsp;&nbsp;", length(bibs) - 9), rep(".</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", 9))
 cat(paste0("<span>", rev(seq_along(bibs)), padding, bibs, collapse = "\n\n"))
+cat("<style>@media (min-width: 1200px)
+.container {
+    width: 1370px !important;
+}</style>", fill = TRUE)
 ```
 
 
+<style>
+@media (min-width: 1200px)
+.container {
+    width: 1370px !important;
+}
+</style>

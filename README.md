@@ -9,30 +9,31 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-<span>40.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
-airports using social networks.” *Journal of Air<br>        Transport
-Management*, *75*, 153 - 163. ISSN 0969-6997, doi:
-<https://doi.org/10.1016/j.jairtraman>.<br>        2019.01.010 (URL:
-<http://doi.org/https://doi.org/10.1016/j.jairtraman.2019.01.010>),
-\<URL:
-<http://><br>        www.sciencedirect.com/science/article/pii/S0969699718303144\>.
+<span>42.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
+airports using social networks.” *Journal of<br>        Air Transport
+Management*, *75*, 153 - 163. ISSN 0969-6997, , \<URL:
+<http://www.sciencedirect.com/><br>        science/article/pii/S0969699718303144\>.
 
-<span>39.</span>   Greco F, Polli A, others (2019). “Vaccines in Italy:
+<span>41.</span>   Greco F, Polli A, others (2019). “Vaccines in Italy:
 the emotional text mining of social media.”<br>        *RIEDS-Rivista
 Italiana di Economia, Demografia e Statistica-Italian Review of
 Economics, Demography<br>        and Statistics*, *73*(1), 89-99.
 
-<span>38.</span>   Kearney MW (2019). “Analyzing change in network
-polarization.” *New Media & Society*.
-doi:<br>        10.1177/1461444818822813 (URL:
-<http://doi.org/10.1177/1461444818822813>), \[Online First\],
-\<URL:<br>        <https://doi.org/10.1177/1461444818822813>\>.
+<span>40.</span>   Kearney MW (2019). “Analyzing change in network
+polarization.” *New Media & Society*. , \[Online<br>        First\],
+\<URL: <https://doi.org/10.1177/1461444818822813>\>.
 
-<span>37.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Tailoring
+<span>39.</span>   Larsen EG, Fazekas Z (2019). “Quantitative Politics
+with R.” *NA*.
+
+<span>38.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Tailoring
 in the digital era: Stimulating dialogues<br>        on health topics in
 collaboration with social media influencers.” *DIGITAL HEALTH*,
-*5*,<br>        2055207618821521. doi: 10.1177/2055207618821521 (URL:
-<http://doi.org/10.1177/2055207618821521>).
+*5*,<br>        2055207618821521. .
+
+<span>37.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Mapping
+the Dutch Vaccination Debate on Twitter:<br>        Identifying
+Communities, Narratives, and Interactions.” *Vaccine: X*, 100019.
 
 <span>36.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
 analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Conference
@@ -90,10 +91,8 @@ Analysis of social interactions of the Czech media<br>        space*.
 Master’s thesis, Univerzita Karlova.
 
 <span>24.</span>   Ku T, Xu S, Li W, Yuan B, others (2018). “Affective
-Emotional Component Analysis: Text Mining<br>        Based on Social
-Network.” *OSF Preprints*. doi: <https://doi.org/10.31219/osf.io/tpuw3>
-(URL:
-<http://><br>        doi.org/<https://doi.org/10.31219/osf.io/tpuw3>).
+Emotional Component Analysis: Text Mining Based<br>        on Social
+Network.” *OSF Preprints*. .
 
 <span>23.</span>   Lacroix D (2018). *Tweeting populist sentiment: A
 study of Forum voor Democratie’s use<br>        of emotional language on
@@ -109,8 +108,7 @@ arXiv:<br>        1805.00558*.
 <span>21.</span>   Molyneux L, Lewis SC, Holton AE (2018). “Media work,
 identity, and the motivations that shape<br>        branding practices
 among journalists: An explanatory framework.” *New Media & Society*,
-1-20.<br>        doi: <https://doi.org/10.1177/F1461444818809392> (URL:
-<http://doi.org/https://doi.org/10.1177/><br>        F1461444818809392).
+1-20. .
 
 <span>20.</span>   Rottigni E (2018). *Fragile cities: how Venice and
 Barcelona communicate their need for<br>        sustainability*.
@@ -192,12 +190,21 @@ about”Citizen Science" (and 1,000 things<br>        it doesn’t)."
 <http://><br>        citizensciences.net/2017/01/26/4-things-twitter-tells-us-about-citizen-science/\>.
 
 <span>2.</span>     Valls F, Redondo E, Fonseca D, Torres-Kompen R,
-Villagrasa S, Martí N (2017). “Urban data and<br>        urban design: A
+Villagrasa S, Martí N (2017). “Urban data and urban<br>        design: A
 data mining approach to architecture education.” *Telematics and
-Informatics*.
-doi:<br>        <https://doi.org/10.1016/j.tele.2017.09.015>
-(URL:
-<http://doi.org/https://doi.org/10.1016/j.tele>.<br>        2017.09.015).
+Informatics*. .
 
 <span>1.</span>     Porcu V (2016). *Text mining e sentiment analysis
 con R*. Valentina Porcu.
+
+<style>@media (min-width: 1200px)
+.container {
+    width: 1370px !important;
+}</style>
+
+<style>
+@media (min-width: 1200px)
+.container {
+    width: 1370px !important;
+}
+</style>
