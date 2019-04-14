@@ -9,6 +9,11 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
+<span>43.</span>   Georgakopoulos SV, Tasoulis SK, Vrahatis AG,
+Plagianakos VP (2019). “Convolutional Neural Networks<br>        for
+Twitter Text Toxicity Analysis.” In *INNS Big Data and Deep Learning
+conference*, 370-379.<br>        Springer.
+
 <span>42.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
 airports using social networks.” *Journal of<br>        Air Transport
 Management*, *75*, 153 - 163. ISSN 0969-6997, , \<URL:
