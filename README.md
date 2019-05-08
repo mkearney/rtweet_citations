@@ -9,6 +9,10 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
+<span>44.</span>   Bradley A, James RJ (2019). “How are major gambling
+brands using Twitter?” *International Gambling<br>        Studies*,
+1-20. .
+
 <span>43.</span>   Georgakopoulos SV, Tasoulis SK, Vrahatis AG,
 Plagianakos VP (2019). “Convolutional Neural Networks<br>        for
 Twitter Text Toxicity Analysis.” In *INNS Big Data and Deep Learning
