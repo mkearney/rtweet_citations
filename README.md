@@ -9,128 +9,132 @@ citations, and (c) I’d like to one day get tenure :).
 
 ## Bibliography list
 
-    ## ignoring entry 'gray2019brands' (line 133) because :
-    ##  'bibtype' has to be one of Article, Book, Booklet, InBook, InCollection, InProceedings, Manual, MastersThesis, Misc, PhdThesis, Proceedings, TechReport, Unpublished
-
-    ## ignoring entry 'prieuchanging' (line 301) because :
-    ##  A bibentry of bibtype 'Article' has to specify the field: journal
-
-    ## ignoring entry 'rottigni2018fragile' (line 318) because :
-    ##  'bibtype' has to be one of Article, Book, Booklet, InBook, InCollection, InProceedings, Manual, MastersThesis, Misc, PhdThesis, Proceedings, TechReport, Unpublished
-
-<span>44.</span>   Bradley A, James RJ (2019). “How are major gambling
+<span>47.</span>   Bradley A, James RJ (2019). “How are major gambling
 brands using Twitter?” *International Gambling<br>        Studies*,
 1-20. .
 
-<span>43.</span>   Georgakopoulos SV, Tasoulis SK, Vrahatis AG,
+<span>46.</span>   Georgakopoulos SV, Tasoulis SK, Vrahatis AG,
 Plagianakos VP (2019). “Convolutional Neural Networks<br>        for
 Twitter Text Toxicity Analysis.” In *INNS Big Data and Deep Learning
 conference*, 370-379.<br>        Springer.
 
-<span>42.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
+<span>45.</span>   Gitto S, Mancuso P (2019). “Brand perceptions of
 airports using social networks.” *Journal of<br>        Air Transport
 Management*, *75*, 153 - 163. ISSN 0969-6997, , \<URL:
 <http://www.sciencedirect.com/><br>        science/article/pii/S0969699718303144\>.
 
-<span>41.</span>   Greco F, Polli A, others (2019). “Vaccines in Italy:
+<span>44.</span>   Gray AA (2019). *Brands Take a Stand for Good: The
+Effect of Brand Activism on Social Media<br>        Engagement*.
+Master’s thesis, University of New Hampshire, Durham.
+
+<span>43.</span>   Greco F, Polli A, others (2019). “Vaccines in Italy:
 the emotional text mining of social media.”<br>        *RIEDS-Rivista
 Italiana di Economia, Demografia e Statistica-Italian Review of
 Economics, Demography<br>        and Statistics*, *73*(1), 89-99.
 
-<span>40.</span>   Kearney MW (2019). “Analyzing change in network
+<span>42.</span>   Kearney MW (2019). “Analyzing change in network
 polarization.” *New Media & Society*. , \[Online<br>        First\],
 \<URL: <https://doi.org/10.1177/1461444818822813>\>.
 
-<span>39.</span>   Larsen EG, Fazekas Z (2019). “Quantitative Politics
+<span>41.</span>   Larsen EG, Fazekas Z (2019). “Quantitative Politics
 with R.” *NA*.
 
-<span>38.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Tailoring
+<span>40.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Tailoring
 in the digital era: Stimulating dialogues<br>        on health topics in
 collaboration with social media influencers.” *DIGITAL HEALTH*,
 *5*,<br>        2055207618821521. .
 
-<span>37.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Mapping
+<span>39.</span>   Lutkenhaus RO, Jansz J, Bouman MP (2019). “Mapping
 the Dutch Vaccination Debate on Twitter:<br>        Identifying
 Communities, Narratives, and Interactions.” *Vaccine: X*, 100019.
 
-<span>36.</span>   M’Bareck ML (2019). *Political Speech on Twitter: A
+<span>38.</span>   M’Bareck ML (2019). *Political Speech on Twitter: A
 Sentiment Analysis of Tweets and News Coverage<br>        of Local Gun
 Policy*. PhD thesis, University of Arkansas.
 
-<span>35.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
+<span>37.</span>   Prieu C (2019). “Changing Faces of Morphological
+Innovation in French: Gender-Marking in Feminist<br>        Discourse on
+Twitter.” In *49th Linguistic Symposium on Romance Languages in Spring
+2019*.
+
+<span>36.</span>   Bakar MAA, Ariff NM, Hui EX (2018). “Exploratory data
 analysis of Twitter’s rhythm in Malaysia.” In<br>        *AIP Conference
 Proceedings*, volume 2013 number 1, 020056. AIP Publishing.
 
-<span>34.</span>   Bossetta M (2018). “A Simulated Cyberattack on
+<span>35.</span>   Bossetta M (2018). “A Simulated Cyberattack on
 Twitter: Assessing Partisan Vulnerability to Spear<br>        Phishing
 and Disinformation ahead of the 2018 US Midterm Elections.” *First
 Monday*.
 
-<span>33.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
+<span>34.</span>   Buscema M, Ferilli G, Massini G, Zavarrone E (2018).
 “Media content analysis on online hate<br>        speech.” *Positive
 Messengers*. \<URL:
 <https://positivemessengers.net/images/library/pdfs/><br>        Media\_content\_analysis\_form\_eng.pdf\>.
 
-<span>32.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
+<span>33.</span>   Cantos Sancho A (2018). *Estudio de Nuevas
 Herramientas en la Respuesta del Consumidor*. PhD
 thesis,<br>        Universitat Politécnica De Valéncia.
 
-<span>31.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
+<span>32.</span>   Díez MM, Palacio V, Principe O, Gaztelumendi S
 (2018). “Palabras clave en twiter de centros<br>        meteorológicos.”
 *Acta de las Jornadas Científicas de la Asociación Meteorológica
 Española*,<br>        *1*(35).
 
-<span>30.</span>   Doceka D (2018). “Selfies as a mental disorder,
+<span>31.</span>   Doceka D (2018). “Selfies as a mental disorder,
 escaped biometric database and tax optimization of<br>        Google.”
 *Lupa*. \<URL:
 <https://www.lupa.cz/clanky/selfies-jako-dusevni-porucha-unikla-biometricka-><br>        databaze-a-danove-optimalizace-googlu/\>.
 
-<span>29.</span>   Erlandsen M (2018). “Twitter as a tool of
+<span>30.</span>   Erlandsen M (2018). “Twitter as a tool of
 para-disploomacy: An exploratory cohort study based<br>        on
 Catalonia (2013-2017).” *Revista Chilena de Relaciones Internacionales*,
 *2*, 211-231.
 \<URL:<br>        <https://rchri.cl/wp-content/uploads/2018/04/211-231.pdf>\>.
 
-<span>28.</span>   Greenhalgh SP (2018). *Spaces and their social
+<span>29.</span>   Greenhalgh SP (2018). *Spaces and their social
 frontiers: Using community dimensions to distinguish<br>        between
 teacher-focused hashtags on Twitter*. PhD thesis, Michigan State
 University.
 
-<span>27.</span>   González F, Medina V (2018). “Shaping the public
+<span>28.</span>   González F, Medina V (2018). “Shaping the public
 sphere: The politics of fictional expectations in<br>        social
 media.” working paper.
 
-<span>26.</span>   Jann O, Schottmuller C (2018). “Breakdown of debate
+<span>27.</span>   Jann O, Schottmuller C (2018). “Breakdown of debate
 and the usefulness of echo chambers: Theory<br>        and evidence.”
 working paper, \<URL:
 <https://editorialexpress.com/cgi-bin/conference/download.cgi>?<br>        db\_name=EEAESEM2018\&paper\_id=2395\>.
 
-<span>25.</span>   Kearney MW (2018). *Analyzing tweets about the 2016
+<span>26.</span>   Kearney MW (2018). *Analyzing tweets about the 2016
 US presidential “blunder” election*. ABC-CLIO.
 
-<span>24.</span>   Krsová L (2018). *Czech journalists on Twitter:
+<span>25.</span>   Krsová L (2018). *Czech journalists on Twitter:
 Analysis of social interactions of the Czech media<br>        space*.
 Master’s thesis, Univerzita Karlova.
 
-<span>23.</span>   Ku T, Xu S, Li W, Yuan B, others (2018). “Affective
+<span>24.</span>   Ku T, Xu S, Li W, Yuan B, others (2018). “Affective
 Emotional Component Analysis: Text Mining Based<br>        on Social
 Network.” *OSF Preprints*. .
 
-<span>22.</span>   Lacroix D (2018). *Tweeting populist sentiment: A
+<span>23.</span>   Lacroix D (2018). *Tweeting populist sentiment: A
 study of Forum voor Democratie’s use<br>        of emotional language on
 Twitter*. PhD thesis, University of Amsterdam. \<URL:
 <http://><br>        www.scriptiesonline.uba.uva.nl/document/666363\>.
 
-<span>21.</span>   Li TR, Chamrajnagar AS, Fong XR, Rizik NR, Fu F
+<span>22.</span>   Li TR, Chamrajnagar AS, Fong XR, Rizik NR, Fu F
 (2018). “Sentiment-based prediction of
 alternative<br>        cryptocurrency price fluctuations using
 gradient boosting tree model.” *arXiv preprint
 arXiv:<br>        1805.00558*.
 
-<span>20.</span>   Molyneux L, Lewis SC, Holton AE (2018). “Media work,
+<span>21.</span>   Molyneux L, Lewis SC, Holton AE (2018). “Media work,
 identity, and the motivations that shape<br>        branding practices
 among journalists: An explanatory framework.” *New Media & Society*,
 1-20. .
+
+<span>20.</span>   Rottigni E (2018). *Fragile cities: how Venice and
+Barcelona communicate their need for<br>        sustainability*.
+Master’s thesis, Università Ca’Foscari Venezia.
 
 <span>19.</span>   Rudis B (2018). *21 recipes for mining Twitter with
 rtweet*. rud.is. \<URL:
